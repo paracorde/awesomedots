@@ -2,6 +2,7 @@
 awesomewm dots
 
 my dots are managed by a dinky little script so everything's a jinja template or just gets symlinked to their proper place so that's why this thing looks a bit weird
+as always, very much taken from elenapan's amazing rices, just rewritten to be something more in my tastes
 
 rice demo vid
 
