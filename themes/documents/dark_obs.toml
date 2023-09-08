@@ -1,0 +1,27 @@
+[general]
+name = "dark"
+author = "paracorde"
+
+[style]
+color = [
+    "#2e334e",
+    "#73aada",
+    "#ed8e8e",
+    "#6ccfa4",
+    "#878acc",
+    "#dfa47b",
+    "#a7aeb3",
+    "#67b8c5",
+    "#3c415d",
+    "#3379b6",
+    "#c54d4d",
+    "#2aae74",
+    "#35387b",
+    "#d68248",
+    "#909aa2",
+    "#31909f"
+]
+foreground = "#cbcbcb"
+background = "#202333"
+opacity = 1.0
+radius = 0

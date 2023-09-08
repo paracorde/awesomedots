@@ -1,0 +1,28 @@
+backend = "glx";
+
+use-damage = false;
+
+inactive-dim = 0.1
+
+corner-radius = {{ radius }};
+round-borders = 1;
+detect-rounded-corners = true;
+rounded-corners-exclude = ["window_type = 'dock'"]
+
+fading = false;
+fade-delta = 4;
+fade-in-step = 0.03;
+fade-out-step = 0.03;
+
+shadow = false;
+
+shadow-red = 0.0;
+shadow-green = 0.0;
+shadow-blue = 0.0;
+
+blur-method = "none";
+blur-strength = 0;
+blur-background = false;
+blur-background-frame = false;
+blur-background-fixed = false;
+blur-background-exclude = ["window_type = 'dock'", "class_g = 'slop'", "! name~=''"]

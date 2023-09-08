@@ -1,0 +1,27 @@
+[general]
+name = "schema"
+author = "paracorde"
+
+[style]
+color = [
+    "#a6a6a6",
+    "#ea2f2f",
+    "#6930ff",
+    "#2379ff",
+    "#12df5e",
+    "#c8e617",
+    "#ff8224",
+    "#262626",
+    "#7b7b7b",
+    "#aa0000",
+    "#2f00ad",
+    "#004cc4",
+    "#00a13b",
+    "#9ab403",
+    "#be5a0e",
+    "#171717"
+]
+foreground = "#ffffff"
+background = "#000000"
+opacity = 1.0
+radius = 10

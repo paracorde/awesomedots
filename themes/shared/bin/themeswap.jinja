@@ -1,0 +1,12 @@
+#!/bin/bash
+
+if [[ $TERM == "xterm-kitty" ]]; then
+    kitty @ set-colors --all --configured ~/.config/kitty/color.conf
+    kitty @ set-background-opacity --all {{ opacity }}
+fi
+
+pkill picom
+sleep 0.5
+picom > ~/.cache/picom.out 2> ~/.cache/picom.err &
+# feh --bg-fill {{ wallpaper }}
+# xrdb ~/.Xresources

@@ -1,0 +1,27 @@
+[general]
+name = "blueprint"
+author = "paracorde"
+
+[style]
+color = [
+    "#5972b1",
+    "#5eacf1",
+    "#ef7575",
+    "#5adaa2",
+    "#878bef",
+    "#fcae78",
+    "#a7aeb3",
+    "#435c9c",
+    "#647dbc",
+    "#418ccc",
+    "#d56666",
+    "#47b987",
+    "#686cc1",
+    "#d68248",
+    "#909aa2",
+    "#38518e"
+]
+foreground = "#cbcbcb"
+background = "#4a63a2"
+opacity = 1.0
+radius = 0

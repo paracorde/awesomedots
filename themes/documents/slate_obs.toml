@@ -1,0 +1,27 @@
+[general]
+name = "slate"
+author = "paracorde"
+
+[style]
+color = [
+    "#c1a796",
+    "#1a456c",
+    "#df4905",
+    "#30879c",
+    "#2e6a4f",
+    "#493795",
+    "#8b2d76",
+    "#93a114",
+    "#a88d7b",
+    "#0b3052",
+    "#923606",
+    "#175f70",
+    "#0a432a",
+    "#302076",
+    "#651753",
+    "#7f8a17"
+]
+foreground = "#000000"
+background = "#d6b9a5"
+opacity = 1.0
+radius = 0
